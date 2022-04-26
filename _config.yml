@@ -1,6 +1,6 @@
 # Site settings
 title: Nguyen Huu Hoa - Software Engineer
-description: Hello there, 👨‍💻 My name \'s Hoa. Currently working on Hutech University.
+description: Hello there, 👨‍💻 My name 's Hoa. Currently working on Hutech University.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "nustvondev.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
