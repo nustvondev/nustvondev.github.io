@@ -15,7 +15,7 @@
     "gulp-csso": "^4.0.1",
     "gulp-imagemin": "^6.2.0",
     "gulp-plumber": "^1.1.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-uglify": "^3.0.2"
   }
 }
